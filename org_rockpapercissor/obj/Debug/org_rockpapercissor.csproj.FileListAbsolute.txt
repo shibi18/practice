@@ -1,0 +1,6 @@
+C:\Users\Sivaprakash\Documents\Visual Studio 2012\Projects\game\org_rockpapercissor\bin\Debug\org_rockpapercissor.exe.config
+C:\Users\Sivaprakash\Documents\Visual Studio 2012\Projects\game\org_rockpapercissor\bin\Debug\org_rockpapercissor.exe
+C:\Users\Sivaprakash\Documents\Visual Studio 2012\Projects\game\org_rockpapercissor\bin\Debug\org_rockpapercissor.pdb
+C:\Users\Sivaprakash\Documents\Visual Studio 2012\Projects\game\org_rockpapercissor\obj\Debug\org_rockpapercissor.csprojResolveAssemblyReference.cache
+C:\Users\Sivaprakash\Documents\Visual Studio 2012\Projects\game\org_rockpapercissor\obj\Debug\org_rockpapercissor.exe
+C:\Users\Sivaprakash\Documents\Visual Studio 2012\Projects\game\org_rockpapercissor\obj\Debug\org_rockpapercissor.pdb

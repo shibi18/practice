@@ -1,0 +1,6 @@
+c:\users\sivaprakash\documents\visual studio 2012\Projects\game\rockpaperscissor\bin\Debug\rockpaperscissor.exe.config
+c:\users\sivaprakash\documents\visual studio 2012\Projects\game\rockpaperscissor\bin\Debug\rockpaperscissor.exe
+c:\users\sivaprakash\documents\visual studio 2012\Projects\game\rockpaperscissor\bin\Debug\rockpaperscissor.pdb
+c:\users\sivaprakash\documents\visual studio 2012\Projects\game\rockpaperscissor\obj\Debug\rockpaperscissor.csprojResolveAssemblyReference.cache
+c:\users\sivaprakash\documents\visual studio 2012\Projects\game\rockpaperscissor\obj\Debug\rockpaperscissor.exe
+c:\users\sivaprakash\documents\visual studio 2012\Projects\game\rockpaperscissor\obj\Debug\rockpaperscissor.pdb

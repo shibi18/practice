@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rockpaperscissor", "rockpaperscissor\rockpaperscissor.csproj", "{9654DA1C-5128-4ABE-B49D-08A7FCA9B838}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "org_rockpapercissor", "org_rockpapercissor\org_rockpapercissor.csproj", "{165CE019-A07F-4AD1-93A2-E5F2E216FFBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9654DA1C-5128-4ABE-B49D-08A7FCA9B838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9654DA1C-5128-4ABE-B49D-08A7FCA9B838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9654DA1C-5128-4ABE-B49D-08A7FCA9B838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9654DA1C-5128-4ABE-B49D-08A7FCA9B838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{165CE019-A07F-4AD1-93A2-E5F2E216FFBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{165CE019-A07F-4AD1-93A2-E5F2E216FFBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{165CE019-A07F-4AD1-93A2-E5F2E216FFBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{165CE019-A07F-4AD1-93A2-E5F2E216FFBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
